@@ -1,6 +1,7 @@
+.idea
 .tmp
 _book/
 coverage
 es
-lib
+#lib
 node_modules
