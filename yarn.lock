@@ -6529,6 +6529,11 @@ nested-property@1.0.1:
   resolved "https://registry.yarnpkg.com/nested-property/-/nested-property-1.0.1.tgz#2001105b5c69413411b876bba9b86f4316af613f"
   integrity sha512-BnBBoo/8bBNRdAnJc7+m79oWk7dXwW1+vCesaEQhfDGVwXGLMvmI4NwYgLTW94R/x+R2s/yr2g/hB/4w/YSAvA==
 
+nested-property@1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/nested-property/-/nested-property-1.0.3.tgz#f899796c29e4354f3dd40a0c938e3e06e306074d"
+  integrity sha512-mgeEdoD5AJa/ifX1lxky1nkyX/u5WFQvTqbffJbJvZEshmXTc/bTUkB1b75eKcJEemUL65lkPMV/xykRyKYG9g==
+
 nested-property@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/nested-property/-/nested-property-1.0.4.tgz#4068c4289d1f3ac9f367e784502ff342d277ee2f"
@@ -9096,6 +9101,13 @@ tree-changes@^0.5.1:
   dependencies:
     deep-diff "^1.0.2"
     nested-property "1.0.1"
+
+"tree-changes@https://github.com/varzock/tree-changes.git":
+  version "0.5.1"
+  resolved "https://github.com/varzock/tree-changes.git#0ad5370ef2f1d6e00bbc4cf358d19024c3a77b21"
+  dependencies:
+    deep-diff "^1.0.2"
+    nested-property "1.0.3"
 
 tryer@^1.0.1:
   version "1.0.1"

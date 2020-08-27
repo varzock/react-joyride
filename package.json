@@ -43,7 +43,7 @@
     "react-is": "^16.12.0",
     "scroll": "^3.0.1",
     "scrollparent": "^2.0.1",
-    "tree-changes": "^0.5.1"
+    "tree-changes": "https://github.com/varzock/tree-changes.git"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
